@@ -39,14 +39,14 @@ nav {
   color: Aquamarine;
 }
 
-p .what-is {
+.what-is {
   color: rgba(255, 255, 255, 0.5);
   font-family: Verdana, sans-serif;
   text-align: center;
   font-size: 21px;
 }
 
-p .download {
+.download {
   font-size: 16px;
   font-family: Verdana;
   color: Aquamarine;
