@@ -22,15 +22,16 @@ img {
     width: 100%;
 }
 
-a {
-  font-family: "Nunito Sans", sans-serif;
-  color: rgba(136, 250, 61, 1.0);
-  text-align: center;
-}
-
 video {
   display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+
+.download {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  color: rgba(136, 250, 61, 1.0);
 }
