@@ -5,6 +5,7 @@ body {
 h1 {
   font-family: "Nunito Sans", sans-serif;
   color: rgba(255, 255, 255, 1.0);
+  font-size: 100px;
   text-align: center;
 }
 
@@ -19,5 +20,17 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
 
+a {
+  font-family: "Nunito Sans", sans-serif;
+  color: rgba(136, 250, 61, 1.0);
+  text-align: center;
+}
+
+video {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
