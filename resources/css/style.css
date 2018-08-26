@@ -1,6 +1,5 @@
 body {
   background-color: rgba(0, 0, 0, 1.0);
-  font-size: 20em;
 }
 
 h1 {
@@ -31,7 +30,7 @@ video {
     width: 40%;
 }
 
-.download {
+nav {
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
   font-size: 18px;
